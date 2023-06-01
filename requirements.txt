@@ -1,5 +1,6 @@
 numpy==1.20.3
 scipy==1.4.1
+opencv-python
 Pillow==8.4.0
 cython==0.29.24
 matplotlib
